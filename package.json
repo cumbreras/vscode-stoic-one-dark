@@ -2,7 +2,7 @@
   "name": "stoic-one-dark",
   "displayName": "Stoic One Dark",
   "description": "An Stoic theme base on `Any Dark` and `One Dark Pro` theme.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "cumbreras",
   "license": "MIT",
   "repository": {
@@ -37,6 +37,6 @@
     "package": "vsce package"
   },
   "devDependencies": {
-    "vsce": "1.22.0"
+    "vsce": "1.36.2"
   }
 }
