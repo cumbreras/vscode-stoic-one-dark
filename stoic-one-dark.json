@@ -870,7 +870,7 @@
             "scope": "markup.bold,todo.bold",
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#d19a66"
+                "foreground": "#4c8fc0BB"
             }
         },
         {
