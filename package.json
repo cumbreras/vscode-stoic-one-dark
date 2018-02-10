@@ -1,0 +1,42 @@
+{
+  "name": "stoic-one-dark",
+  "displayName": "Stoic One Dark",
+  "description": "An Stoic theme base on `Any Dark` and `One Dark Pro` theme.",
+  "version": "1.0.1",
+  "publisher": "cumbreras",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cumbreras/vscode-stoic-one-dark"
+  },
+  "engines": {
+    "vscode": "^1.13.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "ayu",
+    "one-dark",
+    "ayu-one-dark",
+    "stoic-one-dark"
+  ],
+  "homepage": "https://github.com/cumbreras/vscode-stoic-one-dark",
+  "icon": "assets/logo.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Stoic One Dark",
+        "uiTheme": "vs-dark",
+        "path": "./stoic-one-dark.json"
+      }
+    ]
+  },
+  "scripts": {
+    "package": "vsce package"
+  },
+  "devDependencies": {
+    "vsce": "1.22.0"
+  }
+}
