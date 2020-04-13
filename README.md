@@ -10,3 +10,7 @@ ext install stoic-one-dark
 ```
 
 Then go to `Preferences > Color Theme > Stoic One Dark`.
+
+## How it looks?
+
+![StoicDark](https://i.imgur.com/5vMDtUH.png)
